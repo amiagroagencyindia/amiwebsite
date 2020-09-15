@@ -19,6 +19,9 @@ productID: "1"
 # type must be "products"
 type: "products"
 
+#product link
+link: "https://amazon.in/"
+
 # product Images
 # first image will be shown in the product page
 images:
